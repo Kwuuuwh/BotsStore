@@ -1,5 +1,0 @@
-id: "ozonbot"
-name: "Ozon Bot"
-build_config:
-  build_command: "poetry build"
-  custom_env_vars:

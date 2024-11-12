@@ -1,0 +1,7 @@
+{
+  "name": "ozonbot",
+  "description": "Bot for Ozon automation",
+  "build": {
+    "command": "poetry install"
+  }
+}
