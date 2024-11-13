@@ -1,7 +1,5 @@
 {
-  "name": "ozonbot",
-  "description": "Bot for Ozon automation",
-  "build": {
-    "command": "poetry install"
-  }
+  "id": "ozonbot",
+  "name": "OzonBot",
+  "description": "Bot for Ozon Profit automation",
 }
